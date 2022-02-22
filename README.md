@@ -1,18 +1,13 @@
 ### Hi there 👋
 
-I'm nad and I like coding. Thanks for reading!
+I'm Nad and I like coding.
 
-<!--
-**enometsys/enometsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been coding since the art has been introduced to me which led me to choose Computer Science as my undegrad.
 
-Here are some ideas to get you started:
+For the past 5 years, I am mostly involved in developing APIs specially for healthcare apps like [EMRs](https://www.healthit.gov/faq/what-electronic-health-record-ehr) and full blown [CMSs](https://www.govhealthit.com/what-is-a-clinic-management-system-a-brief-overview-definition/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Although I mainly work professionally using nodejs and mongodb, in my spare time, I also further my knowldge and skills on my other interests:
+- kubernetes
+- gRPC
+- blockchain
+- zero-knowledge
