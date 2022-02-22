@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm nad and I like coding. Thanks for reading!
+
 <!--
 **enometsys/enometsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
